@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Machine learning!</h2>
+<h2> MSIT 2020!</h2>
 </body>
 </html>
