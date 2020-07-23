@@ -1,2 +1,2 @@
-git commit -m "machine learning class "
+git commit -m "Cybersecurity class "
 
