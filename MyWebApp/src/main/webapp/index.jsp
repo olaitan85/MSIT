@@ -1,5 +1,5 @@
 <html>
 <body>
 <<<<<<< HEAD
-<h2>Mccormick school!</h2>
+<h2> Mccormick school!</h2>
 
